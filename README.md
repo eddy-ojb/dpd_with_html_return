@@ -12,4 +12,5 @@ to get up and running, clone this repo then start a new env running the followin
 `python setup.py install` in the root folder to install this dpd extension
 
 
-Now run the dpd_html_return_demo, which should just run as is using python manage.py runserver. Navigate to http://127.0.0.1:8000/django_app/dash_example_1 to view a simple dashboard.
+Now clone and run the dpd_html_return_demo found at https://github.com/eddy-ojb/dpd_html_return_demo.
+This should just run as is using python manage.py runserver. Navigate to http://127.0.0.1:8000/django_app/dash_example_1 to view a simple dashboard.
